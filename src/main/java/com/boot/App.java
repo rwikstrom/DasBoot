@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class App 
 {
-    // Starts Java and then the application. The JVM initilises and passes control execution to this method.
+    // Starts Java and then the application. The JVM initializes and passes control execution to this method.
     public static void main( String[] args )
     {
         //
